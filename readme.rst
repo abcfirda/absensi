@@ -1,8 +1,12 @@
 ###################
-SIMAKK
+SiMaK
 ###################
 
-SIMAK adalah Sistem Manajamen Kehadiran untuk siswa 
+SiMaK adalah aplikasi yang dibuat oleh kelompok dua. Berisikan satu manager
+sembilan anggota yang memiliki tugas dan peranan masing masing. SiMaK bertujuan
+untuk mengelola data kehadiran dengan rapi di sistem database yang akan dikelola
+oleh staff sekolah ataupun kesiswaan. Dengan menyediakan beberapa fitur di website
+dan aplikasi membuat para pengguna lebih mudah dalam mengakses SiMaK
 
 *******************
 Release Information
